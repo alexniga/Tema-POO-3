@@ -1,5 +1,5 @@
 #include <iostream>
-#include "GRAPH.h"
+#include "main.h"
 #include <cstring>
 #include <cstdlib>
 #include <vector>
